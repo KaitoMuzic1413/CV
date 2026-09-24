@@ -24,7 +24,6 @@ Trang web CV cá nhân trực tuyến được thiết kế theo phong cách hi�
 ## Cấu trúc thư mục
 
 ```text
-.
 index.html    # File cấu trúc chính của CV
 about.css     # File định kiểu giao diện và chuyển đổi Dark Mode
 README.md     # Tài liệu giới thiệu dự án
